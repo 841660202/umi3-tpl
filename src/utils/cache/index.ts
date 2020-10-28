@@ -1,0 +1,1 @@
+import { CacheInt, CacheArray, CacheStr, CacheObject } from './CacheClass';
